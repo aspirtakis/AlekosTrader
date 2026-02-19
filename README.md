@@ -68,7 +68,7 @@ AlekosTrader is a **licensed commercial product**. A valid license key is requir
 
 For license inquiries, bug reports, or feature requests:
 
-- Email: **alekos@aspirtakis.com**
+- Email: **info@alekosbot.com**
 - GitHub Issues: [Open an issue](https://github.com/aspirtakis/AlekosTrader/issues)
 
 ## License
